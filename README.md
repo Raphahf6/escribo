@@ -12,7 +12,7 @@
   
 -  5 - Exemplo : ![image](https://user-images.githubusercontent.com/39925526/150026651-6a6985da-adfa-42f2-9a53-d6febaa9cbb8.png)
   
--  6 - Insira um numero maior que 0 e pressione ENTER, caso o numero seja menor que 0, a aplicação ira pedir para inserir novamente: ![image](https://user-images.githubusercontent.com/39925526/150026849-e1b1631b-6c67-46a9-bb1d-b3cae30a5ab4.png)
+-  6 - Insira um numero inteiro maior que 0 e pressione ENTER: ![image](https://user-images.githubusercontent.com/39925526/150026849-e1b1631b-6c67-46a9-bb1d-b3cae30a5ab4.png)
 
 -  7 - Resultado: ![image](https://user-images.githubusercontent.com/39925526/150027573-f533d462-9c91-4758-b74a-afb0235a9be1.png)
 
