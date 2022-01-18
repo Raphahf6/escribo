@@ -38,14 +38,14 @@ calcular() {
   });
 
   // exibe o resultado
-  print(
+  return print(
       '\n Numero inserido: $numInserido\n Somar numeros: $divisiveis\n Resultado da Soma: $resultadoDaSoma\n');
-  print(' Obrigado ! Code made by : Raphahf6 \n');
 }
 
 // chama a função
 void main() {
   calcular();
+  print(' Obrigado ! Code made by : Raphahf6 \n');
 }
 
 // code made by : Raphahf6
