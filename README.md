@@ -4,7 +4,7 @@
 
 -  1 - Instale o dart SDK, pré requisito para rodar aplicações em dart: https://dart.dev/get-dart
 
--  2 - Abra o "cmd" prompt de comando do windows
+-  2 - Abra o "cmd" prompt de comando do windows ou terminal no Mac OS
 
 -  3 - Digite: dart run "caminho para teste_tecnico_01.dart" e pressione ENTER
   
