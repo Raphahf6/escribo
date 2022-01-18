@@ -14,7 +14,7 @@
   
 -  6 - Insira um numero inteiro maior que 0 e pressione ENTER: ![image](https://user-images.githubusercontent.com/39925526/150026849-e1b1631b-6c67-46a9-bb1d-b3cae30a5ab4.png)
 
--  7 - OBS: O numero inserido precisa ser do tipo inteiro, ex: 0, 1, 2, 3. A aplicação não ira aceitar numeros quebrados flutuantes por exemplo: 0.3
+-  7 - OBS: O numero inserido precisa ser do tipo inteiro, ex: 10, 11, 12, 13. A aplicação não ira aceitar numeros quebrados flutuantes por exemplo: 0.3
 
 -  8 - Resultado: ![image](https://user-images.githubusercontent.com/39925526/150027573-f533d462-9c91-4758-b74a-afb0235a9be1.png)
 
