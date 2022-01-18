@@ -9,6 +9,6 @@
   
 -  5 - Insira um numero maior que 0 : ![image](https://user-images.githubusercontent.com/39925526/150026849-e1b1631b-6c67-46a9-bb1d-b3cae30a5ab4.png)
 
--  6 - Resultado: ![image](https://user-images.githubusercontent.com/39925526/150027208-25f6c2d5-e812-4358-8a98-eed3d2dd37a3.png)
+-  6 - Resultado: ![image](https://user-images.githubusercontent.com/39925526/150027573-f533d462-9c91-4758-b74a-afb0235a9be1.png)
 
 
