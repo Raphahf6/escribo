@@ -1,6 +1,6 @@
 # Seleção de Desenvolvedor de Software - Escribo
 
--  1 - Instale o dart SDK, necessario para rodar aplicações em dart. Siga os passos no link: https://dart.dev/get-dart
+-  1 - Instale o dart SDK, necessario para rodar aplicações em dart: https://dart.dev/get-dart
 -  2 - Abra o "cmd" prompt de comando do windows
 
 -  3 - Digite: dart run "caminho para teste_tecnico_01.dart" e pressione ENTER
