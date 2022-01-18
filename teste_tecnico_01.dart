@@ -11,7 +11,7 @@ num resultadoDaSoma = 0;
 calcular() {
   //mensagem inicial
   print(
-      '\n\n### Bem vindo ! ###\n\nTeste Técnico 01.\n\nEssa aplicação recebe um numero inteiro positivo e retorna o somatório de todos os valores divisíveis por 3 ou 5 que sejam inferiores ao numero digitado pelo usuário.  \n \n');
+      '\n\n### Bem vindo ! ###\n\nTeste Técnico 01.\n\nEssa aplicação recebe um numero inteiro positivo e retorna o somatório de todos os valores divisíveis por 3 ou 5\nque sejam inferiores ao numero digitado pelo usuário.  \n \n');
 
   // pede para o usuario inserir um numero
   print(' Insira um numero maior que 0\n');
@@ -20,7 +20,7 @@ calcular() {
   // verifica se o numero inserido é maior que 0, caso não seja, pede para inserir novamente.
   while (numInserido < 0) {
     print(
-        'O numero precisa ser maior que 0, numero inserido: "$numInserido"\n');
+        '\nO numero precisa ser maior que 0, numero inserido: "$numInserido"\n');
     print(' Insira um numero maior que 0\n');
     numInserido = int.parse(stdin.readLineSync()!);
   }
