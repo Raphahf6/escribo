@@ -12,3 +12,4 @@
 -  6 - Resultado: ![image](https://user-images.githubusercontent.com/39925526/150027573-f533d462-9c91-4758-b74a-afb0235a9be1.png)
 
 
+- 7 - Enunciado: [Seleção Desenvolvedor Escribo (Desafio 01).pdf](https://github.com/Raphahf6/escribo/files/7892718/Selecao.Desenvolvedor.Escribo.Desafio.01.pdf)
