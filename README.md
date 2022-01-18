@@ -4,7 +4,7 @@
 
 -  1 - Instale o dart SDK, pré requisito para rodar aplicações em dart: https://dart.dev/get-dart
 
--  2 - Para verificar se você ja tem o dart SDK ou se a instalação foi feita corretamente, abra o seu prompt de comando ou terminal e digite: dart --version: ![image](https://user-images.githubusercontent.com/39925526/150032409-169defd6-519e-4f08-8b73-4a18e1838a42.png)
+-  2 - Para verificar se você ja tem o dart SDK ou se a instalação foi feita corretamente, abra o seu prompt de comando ou terminal e digite "dart --version": ![image](https://user-images.githubusercontent.com/39925526/150032409-169defd6-519e-4f08-8b73-4a18e1838a42.png)
 
 -  3 - Abra o "cmd" prompt de comando do windows ou "terminal" no Mac OS
 
