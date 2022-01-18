@@ -1,5 +1,5 @@
-# escribo
-Seleção de Desenvolvedor de Software - Escribo
+# Seleção de Desenvolvedor de Software - Escribo
+
 
 # 1 - Abra o "cmd" prompt de comando do windows
 # 2 - Digite dart run "caminho para teste_tecnico_01.dart"
