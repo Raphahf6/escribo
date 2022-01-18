@@ -1,6 +1,6 @@
 # Teste Técnico 01 - Escribo
 
-   ## Enunciado: [Seleção Desenvolvedor Escribo (Desafio 01).pdf](https://github.com/Raphahf6/escribo/files/7892718/Selecao.Desenvolvedor.Escribo.Desafio.01.pdf)
+   ## Desafio: [Seleção Desenvolvedor Escribo (Desafio 01).pdf](https://github.com/Raphahf6/escribo/files/7892718/Selecao.Desenvolvedor.Escribo.Desafio.01.pdf)
 
 -  1 - Instale o dart SDK, necessario para rodar aplicações em dart: https://dart.dev/get-dart
 -  2 - Abra o "cmd" prompt de comando do windows
